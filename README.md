@@ -103,6 +103,7 @@
 * https://docs.flutter.dev/testing/build-modes
 * https://docs.flutter.dev/deployment/android
 * https://docs.flutter.dev/deployment/ios
+* https://developer.huawei.com/consumer/en/appgallery/
 
 #####
 Inspired by https://github.com/olexale/flutter_roadmap
